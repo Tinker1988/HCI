@@ -5,10 +5,10 @@ This repository contains all the assignments completed as part of the **Human–
 ## 📂 Repository Overview
 The following PDF files include various assignment submissions:
 
-- `assignment_1.pdf` – Principles and Basics of HCI  
-- `assignmnent_2.pdf` – User Research and Personas  
-- `assignment_4&5.pdf` – Interface Design and Prototyping  
-- `assignment_7&6.pdf` – Evaluation Methods and Usability Testing  
+- `assignment_1.pdf` 
+- `assignmnent_2.pdf`   
+- `assignment_4&5.pdf`   
+- `assignment_7&6.pdf`
 
 Each file corresponds to specific modules covered in the course.
 
